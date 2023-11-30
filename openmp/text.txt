@@ -1,0 +1,23 @@
+ 496  sudo -su root
+  497  clear
+  498  /bin/python3 /home/hpcsap/Numrical_method/linear.py
+  499  sudo apt install intel-hpckit
+  500  clear
+  501  ls
+  502  clear
+  503  sudo apt install intel-hpckit
+  504  clear
+  505  ls
+  506  cd ..
+  507  ls
+  508  cd ..
+  509  ls
+  510  cd opt
+  511  ls
+  512  cd intel
+  513  cd oneapi
+  514  ls
+  515  source /opt/intel/oneapi/setvars.sh
+  516  vtune -gui
+  517  vtune-gui
+  518  history
